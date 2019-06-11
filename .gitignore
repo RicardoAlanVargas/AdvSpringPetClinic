@@ -69,7 +69,7 @@ local.properties
 ######################
 /log/
 /target/
-/pet-clinic-web/target/
+pet-clinic-web/target/
 
 ######################
 # Gradle
