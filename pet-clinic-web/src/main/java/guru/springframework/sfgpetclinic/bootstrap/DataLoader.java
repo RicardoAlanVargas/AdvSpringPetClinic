@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 import java.time.LocalDate;
 
 /**
- * Created by jt on 7/25/18.
+ * Created by Ricardo Vargas on 6/09/19.
  */
 @Component
 public class DataLoader implements CommandLineRunner {

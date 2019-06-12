@@ -3,7 +3,7 @@ package guru.springframework.sfgpetclinic.services;
 import guru.springframework.sfgpetclinic.model.Pet;
 
 /**
- * Created by jt on 7/18/18.
+ * Created by Ricardo Vargas on 6/09/19.
  */
 public interface PetService extends CrudService<Pet, Long> {
 

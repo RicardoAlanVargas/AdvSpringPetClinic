@@ -4,7 +4,7 @@ import guru.springframework.sfgpetclinic.model.Owner;
 
 
 /**
- * Created by jt on 7/18/18.
+ * Created by Ricardo Vargas on 6/09/19.
  */
 public interface OwnerService extends CrudService<Owner, Long> {
 

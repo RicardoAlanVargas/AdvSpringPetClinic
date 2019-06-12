@@ -4,7 +4,7 @@ import guru.springframework.sfgpetclinic.model.Vet;
 
 
 /**
- * Created by jt on 7/18/18.
+ * Created by Ricardo Vargas on 6/09/19.
  */
 public interface VetService extends CrudService<Vet, Long>{
 

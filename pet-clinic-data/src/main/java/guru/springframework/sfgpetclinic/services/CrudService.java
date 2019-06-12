@@ -3,7 +3,7 @@ package guru.springframework.sfgpetclinic.services;
 import java.util.Set;
 
 /**
- * Created by jt on 7/21/18.
+ * Created by Ricardo Vargas on 6/08/19.
  */
 public interface CrudService<T, ID> {
 
